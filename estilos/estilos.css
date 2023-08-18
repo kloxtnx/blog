@@ -1,21 +1,17 @@
-body {
-    color: #333;
-    text-align: center;
-
-}
-
-#container {
-
+#encabezado {
+    color: aquamarine;
     font-family: Arial, Helvetica, sans-serif;
-
-    width: 70%;
-    padding: 1em;
-    text-align: left;
-    border: 1px solid #DDD;
-    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 
-#container h1 {
-    font-size: 20px;
+#letrasTitulo {
+    color: blueviolet;
+}
+
+
+body {
+    text-align: center;
 }
