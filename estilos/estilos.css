@@ -28,3 +28,12 @@ body {
     width: 100px;
     margin-right: 7px
 }
+
+
+#pieDePagina {
+    background-color: cadetblue;
+    color: white;
+    
+    height: 30px;
+    font-size: 25px;
+}
