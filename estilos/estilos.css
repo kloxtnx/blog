@@ -16,6 +16,15 @@ body {
     text-align: center;
 }
 
-#cabecera {
-    background-color: aqua;
+#containercabecera {
+    background-color: rgb(201, 207, 219);
+    display: flex;
+    font-size: 14px;
+    align-items: center;
+}
+
+#imagen {
+    height: 100px;
+    width: 100px;
+    margin-right: 7px
 }
