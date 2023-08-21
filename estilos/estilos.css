@@ -19,3 +19,11 @@ body {
 #cabecera {
     background-color: aqua;
 }
+
+#pieDePagina {
+    background-color: cadetblue;
+    color: white;
+    
+    height: 30px;
+    font-size: 25px;
+}
